@@ -1,6 +1,3 @@
-#17.ders
-
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as mp
@@ -55,16 +52,3 @@ y_head3=linear_reg3.predict(x_poly)
 mp.plot(x,y_head3,color="green",label="polinom")
 mp.legend()
 mp.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
